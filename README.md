@@ -1,2 +1,2 @@
-# Search any term and get an image back!
-### Still under construction
+# **Search any term and get an image back!**
+## REACT project utilizing classes, APIs, and DOM refs!
